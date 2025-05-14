@@ -1,0 +1,2 @@
+# SymManipulator
+Symmetrized tensor expressions
